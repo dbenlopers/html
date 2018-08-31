@@ -1,0 +1,29 @@
+/*body {
+  padding: 0;
+  margin: 0;
+  height: 500vh;
+}
+
+#parallax {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background: orange;
+  background-size: cover;
+  z-index: 1;
+}
+
+#parallax p {
+  font-family: Arial;
+  margin: auto;
+  font-size: 5em;
+}
+
+#element {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  background: #fff;
+  z-index: 2;
+}*/
